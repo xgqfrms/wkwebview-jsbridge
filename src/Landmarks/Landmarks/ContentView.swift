@@ -46,4 +46,4 @@ struct ContentView_Previews: PreviewProvider {
  第一种结构符合View协议，并描述了视图的内容和布局。
  第二个结构声明该视图的预览。
  
-å*/
+*/
